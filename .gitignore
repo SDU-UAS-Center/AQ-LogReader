@@ -1,0 +1,6 @@
+# all files ending with a tilde
+*~
+
+# Ignore Python .pyc
+*.pyc
+
